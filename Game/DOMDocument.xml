@@ -1,6 +1,7 @@
 <DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <symbols>
           <Include href="Background.xml" itemIcon="0" loadImmediate="false" itemID="5004600e-00000011" lastModified="1342464014"/>
+          <Include href="Circle.xml" loadImmediate="false" itemID="50046489-00000013" lastModified="1342465161"/>
           <Include href="Square.xml" itemIcon="0" loadImmediate="false" itemID="5004603e-00000016" lastModified="1342464062"/>
      </symbols>
      <timelines>
@@ -21,6 +22,14 @@
                                         <DOMSymbolInstance libraryItemName="Square" symbolType="button">
                                              <matrix>
                                                   <Matrix tx="275" ty="200"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Circle" centerPoint3DX="515.5" centerPoint3DY="34.5">
+                                             <matrix>
+                                                  <Matrix tx="515.5" ty="34.5"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point/>
